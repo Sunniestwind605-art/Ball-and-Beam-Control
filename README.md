@@ -2,7 +2,7 @@
 
 Linear cascade PID control design and simulation for a ball-on-beam system, using pole placement to meet a 2 s settling time and 5% overshoot specification.
 
-Developed for [course code, e.g. ELEN3018A / ELEN3011], University of the Witwatersrand, 2026.
+
 
 ## Results
 
@@ -63,5 +63,5 @@ The script prints the gains and metrics to the Command Window, shows the beam an
 
 ## Author
 
-Joseph [Surname]
-Electrical Engineering, University of the Witwatersrand
+Joseph Lobishe
+
